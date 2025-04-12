@@ -1,6 +1,6 @@
 # 🕹️ Tic Tac Toe - Flutter
 
-A simple and fun Tic Tac Toe game built with Flutter. Challenge your friends or test your skills against a basic AI!
+A simple and fun Tic Tac Toe game built with Flutter. Challenge your friends!
 
 ## 📱 Screenshots
 
