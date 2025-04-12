@@ -29,5 +29,5 @@ A simple and fun Tic Tac Toe game built with Flutter. Challenge your friends!
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/flutter-tic-tac-toe.git
-   cd flutter-tic-tac-toe
+   git clone https://github.com/Bishal-sub/Tic-Tac-Toe---Flutter.git
+   cd Tic-Tac-Toe---Flutter
