@@ -32,7 +32,7 @@ Before you begin, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/Bishal-sub/Tic-Tac-Toe---Flutter.git
-   cd Bishal-sub/Tic-Tac-Toe---Flutter
+   cd Tic-Tac-Toe---Flutter
 
 Game Instructions 🎲
 Players take turns placing X and O on the 3x3 grid. ➡️❌⭕
