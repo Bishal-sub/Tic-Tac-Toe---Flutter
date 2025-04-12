@@ -10,9 +10,11 @@ A simple, interactive Tic Tac Toe game built with Flutter. This game lets two pl
 - **Reset Game Option**: Restart the game anytime with a single tap. 🔄
 
 ## Screenshots 📸
+![Screenshot 2025-04-12 114642](https://github.com/user-attachments/assets/cc01361b-252c-4001-9ef7-8bfe6d76aad8)![Screenshot 2025-04-12 114256](https://github.com/user-attachments/assets/ad2b19a2-6525-4cb9-ad17-c2446bb0ac46)![Screenshot 2025-04-12 114720](https://github.com/user-attachments/assets/7272565b-bb08-48ba-8beb-b2e4aeed9663)![Screenshot 2025-04-12 114758](https://github.com/user-attachments/assets/03c5308e-a993-428d-8b03-b72915eaa286)
 
-<!-- Optional: Insert screenshots of the game interface here -->
-![Game Screenshot](path/to/screenshot.png)
+
+
+
 
 ## Installation 🔧
 
@@ -29,35 +31,20 @@ Before you begin, make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Bishal-sub/tic-tac-toe-flutter.git
-   cd tic-tac-toe-flutter
+   git clone https://github.com/Bishal-sub/Tic-Tac-Toe---Flutter.git
+   cd Bishal-sub/Tic-Tac-Toe---Flutter
 
-   Game Instructions 🎲
+Game Instructions 🎲
 Players take turns placing X and O on the 3x3 grid. ➡️❌⭕
 
 The player who gets three marks (X or O) in a row, column, or diagonal wins! 🏆
 
 In case of a tie, the game displays a draw message. ⚖️
 
-To start a new game, tap the reset button. 🔁
-
 Technology Stack 🛠️
 Flutter: For building the cross-platform mobile application. 🌐
 
 Dart: Programming language used for developing the Flutter app. 💬
 
-Contributing 💡
-Contributions are always welcome! If you'd like to contribute, feel free to fork this repository and submit a pull request with your changes. 🔀
 
-How to Contribute 🤝
-Fork the repository.
-
-Create a branch (git checkout -b feature/your-feature).
-
-Make your changes.
-
-Commit your changes (git commit -am 'Add new feature').
-
-Push to the branch (git push origin feature/your-feature).
-
-Create a new Pull Request. 🔄
+🔄
