@@ -4,7 +4,6 @@ A simple and fun Tic Tac Toe game built with Flutter. Challenge your friends!
 
 ## 📱 Screenshots
 
-> *(Add screenshots of your game UI here)*
 
 ## 🚀 Features
 
